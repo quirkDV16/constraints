@@ -26,3 +26,9 @@ initial
         $display("blu = %p",px1.b);
     end
 endmodule
+
+
+// ++++++++++++++++++++++++ RESULT ++++++++++++++++++++++++ // 
+red = '{hue:6, sat:10, lum:48}
+gre = '{hue:106, sat:50, lum:62}
+blu = '{hue:202, sat:76, lum:76}
